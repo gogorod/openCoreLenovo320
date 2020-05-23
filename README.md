@@ -41,7 +41,8 @@ Type | Spec | Status
 ---------|:---------:|:----------:
 Battery Status		| - | Working
 Brightness		| - | Working
-Sleep/Hibernate		| - | Weird issue
+Sleep/Hibernate		| - | ~~Weird issue~~ [Working](https://www.tonymacx86.com/threads/hackintosh-lags-after-wake-from-sleep.276096/)!
+Trackpad		| - | Weird issue
 
 ## Modifications
 
@@ -67,4 +68,9 @@ VirtualSMC.kext | - | Working
 VoodooI2C.kext  | - | Working
 VoodooI2CHID.kext  | - | Working
 VoodooPS2Controller.kext  | - | Working
+VoodooTSCSync.kext  | - | Working
 WhateverGreen.kext | - | Working
+
+
+
+
